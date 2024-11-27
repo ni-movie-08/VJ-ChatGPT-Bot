@@ -22,15 +22,15 @@ async def start_message(c,m):
     await db.add_user(m.from_user.id, m.from_user.first_name)
     await c.send_message(LOG_CHANNEL, LOG_TEXT.format(m.from_user.id, m.from_user.mention))
     await m.reply_photo(f"https://te.legra.ph/file/119729ea3cdce4fefb6a1.jpg",
-        caption="**ʜɪ** 👋\n\n**ɪ ᴀᴍ ᴀ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ**\n\n⭕ **ᴘᴏᴡᴇʀᴇᴅ ʙʏ :-** **[Tᴇᴄʜ VJ](https://t.me/vj_botz)**",
+        caption="**ʜɪ** 🦋\n\n**ɪ ᴀᴍ ᴀ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ**\n\n⭕ **ᴘᴏᴡᴇʀᴇᴅ ʙʏ :-** **[ɴɪꜱʜᴀɴᴛ](https://t.me/Nishant_0786)**",
         reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+                        InlineKeyboardButton('🦋 JᴏɪN Fᴏʀ Mᴏᴠɪᴇs 🦋', url='https://t.me/Ni_Movie_Request_Group')
                     ],  
                     [
-                        InlineKeyboardButton("❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/Kingvj01'),
-                        InlineKeyboardButton("🤖 ᴜᴘᴅᴀᴛᴇ", url='https://t.me/VJ_Botz')
+                        InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ ❤️‍🔥", url='https://t.me/Nishant_0786'),
+                        InlineKeyboardButton("BᴀᴄᴋUᴘ", url='https://t.me/Ni_Movies')
                     ]
                 ]
             )
