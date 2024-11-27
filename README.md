@@ -22,6 +22,6 @@
 
 ## Support Group [VJ Support](https://telegram.me/vj_bot_disscussion)
 
-## Contact Owner [Tech VJ](https://telegram.me/kingvj01)
+## Contact Owner [ɴɪꜱʜᴀɴᴛ](https://telegram.me/Nishant_0786)
 
-# Credit - [Tech VJ](https://telegram.me/kingvj01)
+# Credit - [ɴɪꜱʜᴀɴᴛ](https://telegram.me/Nishant_0786)
